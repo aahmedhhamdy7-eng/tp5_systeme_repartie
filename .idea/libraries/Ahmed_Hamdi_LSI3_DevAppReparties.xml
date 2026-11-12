@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="Ahmed Hamdi_LSI3_DevAppReparties">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/banqueClient.jar!/" />
+      <root url="jar://$PROJECT_DIR$/conversionClient.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
